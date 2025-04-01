@@ -99,7 +99,7 @@ AI-driven resume ranking & job-matching
 
 Integration with hiring platforms like LinkedIn & Indeed
 
-Personalized career recommendations using AI
+Personalized career recommendations using AI.
 
 📌 How to Run the Project Locally
 ⿡ Clone the Repository
