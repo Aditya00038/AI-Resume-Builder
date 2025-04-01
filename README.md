@@ -1,4 +1,4 @@
-HireMe.AI - AI-Powered Resume & Portfolio Builder
+HireMe.AI  - AI-Powered Resume & Portfolio Builder
 🚀 Datathon 2025 Submission by Team Akatsuki
 
 📌 Project Overview
